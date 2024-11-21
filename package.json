@@ -25,6 +25,6 @@
     "puppeteer": "19.8.5",
     "sync-fetch": "0.4.2",
     "terminal-image": "2.0.0",
-    "tesseract.js": "4.0.2"
+    "tesseract.js": "4.1.4"
   }
 }
