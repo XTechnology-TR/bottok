@@ -21,7 +21,7 @@
     "chromium": "^3.0.3",
     "inquirer": "9.1.4",
     "jimp": "^0.22.12",
-    "minimist": "1.2.7",
+    "minimist": "1.2.8",
     "puppeteer": "19.8.5",
     "sync-fetch": "0.4.2",
     "terminal-image": "2.0.0",
